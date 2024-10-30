@@ -1,0 +1,13 @@
+C:\Users\sol_f\source\repos\Practica_Itinerario4\Practica_Itinerario4\bin\Debug\Practica_Itinerario4.exe.config
+C:\Users\sol_f\source\repos\Practica_Itinerario4\Practica_Itinerario4\bin\Debug\Practica_Itinerario4.exe
+C:\Users\sol_f\source\repos\Practica_Itinerario4\Practica_Itinerario4\bin\Debug\Practica_Itinerario4.pdb
+C:\Users\sol_f\source\repos\Practica_Itinerario4\Practica_Itinerario4\bin\Debug\System.Data.SqlClient.dll
+C:\Users\sol_f\source\repos\Practica_Itinerario4\Practica_Itinerario4\bin\Debug\System.Data.SqlClient.xml
+C:\Users\sol_f\source\repos\Practica_Itinerario4\Practica_Itinerario4\obj\Debug\Practica_Itinerario4.csproj.AssemblyReference.cache
+C:\Users\sol_f\source\repos\Practica_Itinerario4\Practica_Itinerario4\obj\Debug\Practica_Itinerario4.Form1.resources
+C:\Users\sol_f\source\repos\Practica_Itinerario4\Practica_Itinerario4\obj\Debug\Practica_Itinerario4.Properties.Resources.resources
+C:\Users\sol_f\source\repos\Practica_Itinerario4\Practica_Itinerario4\obj\Debug\Practica_Itinerario4.csproj.GenerateResource.cache
+C:\Users\sol_f\source\repos\Practica_Itinerario4\Practica_Itinerario4\obj\Debug\Practica_Itinerario4.csproj.CoreCompileInputs.cache
+C:\Users\sol_f\source\repos\Practica_Itinerario4\Practica_Itinerario4\obj\Debug\Practica.D7AA80D8.Up2Date
+C:\Users\sol_f\source\repos\Practica_Itinerario4\Practica_Itinerario4\obj\Debug\Practica_Itinerario4.exe
+C:\Users\sol_f\source\repos\Practica_Itinerario4\Practica_Itinerario4\obj\Debug\Practica_Itinerario4.pdb
